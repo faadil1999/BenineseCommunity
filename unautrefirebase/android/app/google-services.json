@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930428976451",
+    "project_id": "unautrefirebase",
+    "storage_bucket": "unautrefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930428976451:android:d81e78c6e3b3435dec43f6",
+        "android_client_info": {
+          "package_name": "com.example.unautrefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930428976451-ls2iss12jaabo1vg6dgm1fa5ir1g5a5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiq0S34Hi3quhgWw5L5UG_iXjMYqaLb8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930428976451-ls2iss12jaabo1vg6dgm1fa5ir1g5a5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
